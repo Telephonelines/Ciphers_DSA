@@ -1,9 +1,9 @@
-// |------------------------------------------------------------------------------------------------|
-// | NAME: Patryk Kaiser - K00263702                                                            	|
-// | DATE: 24/04/2022                                                                           	|
-// | FUNCTION: 	Class that decodes and encodes characters using a key passed in through constructor.|
-// |			Including the option to perform a left rotation after each encode / decode.			|
-// |------------------------------------------------------------------------------------------------|
+// |------------------------------------------------------------------------------------------------
+// | NAME: Patryk Kaiser - K00263702                                                            
+// | DATE: 24/04/2022                                                                           
+// | FUNCTION: 	Class that decodes and encodes characters using a key passed in through constructor.
+// |			Including the option to perform a left rotation after each encode / decode.
+// |------------------------------------------------------------------------------------------------
 
 public class RotatingCipher extends SubstitutionCipher implements Cipher{
 
