@@ -1,8 +1,8 @@
-// |------------------------------------------------------------------------------------------------|
-// | NAME: Patryk Kaiser - K00263702                                                            	|
-// | DATE: 24/04/2022                                                                           	|
-// | FUNCTION: Class that decodes and encodes characters using a key passed in through constructor.	|
-// |------------------------------------------------------------------------------------------------|
+// |------------------------------------------------------------------------------------------------
+// | NAME: Patryk Kaiser - K00263702                                                            	
+// | DATE: 24/04/2022                                                                           	
+// | FUNCTION: Class that decodes and encodes characters using a key passed in through constructor.	
+// |------------------------------------------------------------------------------------------------
 
 public class SubstitutionCipher implements Cipher{
 	
