@@ -1,11 +1,11 @@
-// |--------------------------------------------------------------------------------|
-// | NAME: Patryk Kaiser - K00263702                                                |
-// | DATE: 24/04/2022                                                               |
-// | FUNCTION: 	Class to emulate simplified model of Enigma machine.                |
-// |			Three rings. Inner ring rotates after each encode / decode.         |
-// |            Outer ring same for all enigmas. Pass in inner and middle.          |
-// |            Middle ring rotates after inner ring returns to original position.  |
-// |--------------------------------------------------------------------------------|
+// |--------------------------------------------------------------------------------
+// | NAME: Patryk Kaiser - K00263702                                                
+// | DATE: 24/04/2022                                                               
+// | FUNCTION: 	Class to emulate simplified model of Enigma machine.                
+// |			Three rings. Inner ring rotates after each encode / decode.         
+// |            Outer ring same for all enigmas. Pass in inner and middle.          
+// |            Middle ring rotates after inner ring returns to original position.  
+// |--------------------------------------------------------------------------------
 
 public class Enigma implements Cipher{
     private static final String outer = "#BDFHJLNPRTVXZACEGIKMOQSUWY";
