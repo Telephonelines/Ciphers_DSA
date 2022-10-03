@@ -1,8 +1,8 @@
-// |--------------------------------------------------------------------------------------------|
-// | NAME: Patryk Kaiser - K00263702                                                            |
-// | DATE: 24/04/2022                                                                           |
-// | FUNCTION: Class that encodes and decodes individual characters using the "Caesar cipher".  |
-// |--------------------------------------------------------------------------------------------|
+// |--------------------------------------------------------------------------------------------
+// | NAME: Patryk Kaiser - K00263702                                                            
+// | DATE: 24/04/2022                                                                           
+// | FUNCTION: Class that encodes and decodes individual characters using the "Caesar cipher".  
+// |--------------------------------------------------------------------------------------------
 
 public class CaesarCipher implements Cipher{
     private static final String ALPHABET = "abcdefghijklmnopqrstuvwxyz";
